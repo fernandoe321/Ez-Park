@@ -1,0 +1,14 @@
+{
+  "name": "EZPark-Server",
+  "version": "1.0.0",
+  "description": "Server application for EZPark GM infotainment system application",
+  "main": "server.js",
+  "repository": "https://github.com/dalofeco/EZPark-Server.git",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^3.2.6",
+    "node-rest-client": "^3.1.0",
+    "twilio": "^3.9.2"
+  }
+}

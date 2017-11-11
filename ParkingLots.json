@@ -1,0 +1,39 @@
+{
+    "Research West": [
+        {"name": "Lot1", "type": 1, "price": 2.00, "location": { "lat": 40.793670, "lon":-77.869614 }, "spaces": 40},
+        {"name": "Lot2", "type": 1, "price": 1.50, "location": { "lat": 40.792671, "lon": -77.871320}, "spaces": 20},
+        {"name": "Lot3", "type": 1, "price": 1.75, "location": { "lat": 40.790739, "lon": -77.870781}, "spaces": 25},
+        {"name": "Lot4", "type": 1, "price": 5.00, "location": { "lat": 40.797035, "lon": -77.866797}, "spaces": 17},
+        {"name": "Lot5", "type": 2, "price": 1.25, "location": { "lat": 40.792014, "lon": -77.868536}, "spaces": 15}
+    ],
+    "Westgate Building": [
+        {"name": "Lot1", "type": 1, "price": 2.00, "location": { "lat": 40.793670, "lon":-77.869614 }, "spaces": 40},
+        {"name": "Lot2", "type": 1, "price": 1.50, "location": { "lat": 40.792671, "lon": -77.871320}, "spaces": 20},
+        {"name": "Lot3", "type": 1, "price": 1.75, "location": { "lat": 40.790739, "lon": -77.870781}, "spaces": 25},
+        {"name": "Lot4", "type": 1, "price": 5.00, "location": { "lat": 40.797035, "lon": -77.866797}, "spaces": 17},
+        {"name": "Lot5", "type": 2, "price": 1.25, "location": { "lat": 40.792014, "lon": -77.868536}, "spaces": 15}
+    ],
+    "Davey Lab": [
+        {"name": "Lot1", "type": 1, "price": 2.00, "location": { "lat": 40.793670, "lon":-77.869614 }, "spaces": 40},
+        {"name": "Lot2", "type": 1, "price": 1.50, "location": { "lat": 40.792671, "lon": -77.871320}, "spaces": 20},
+        {"name": "Lot3", "type": 1, "price": 1.75, "location": { "lat": 40.790739, "lon": -77.870781}, "spaces": 25},
+        {"name": "Lot4", "type": 1, "price": 5.00, "location": { "lat": 40.797035, "lon": -77.866797}, "spaces": 17},
+        {"name": "Lot5", "type": 2, "price": 1.25, "location": { "lat": 40.792014, "lon": -77.868536}, "spaces": 15}
+    ],
+    "Harold and Inge Marcus": [
+        {"name": "Lot1", "type": 1, "price": 2.00, "location": { "lat": 40.793670, "lon":-77.869614 }, "spaces": 40},
+        {"name": "Lot2", "type": 1, "price": 1.50, "location": { "lat": 40.792671, "lon": -77.871320}, "spaces": 20},
+        {"name": "Lot3", "type": 1, "price": 1.75, "location": { "lat": 40.790739, "lon": -77.870781}, "spaces": 25},
+        {"name": "Lot4", "type": 1, "price": 5.00, "location": { "lat": 40.797035, "lon": -77.866797}, "spaces": 17},
+        {"name": "Lot5", "type": 2, "price": 1.25, "location": { "lat": 40.792014, "lon": -77.868536}, "spaces": 15}
+    ],
+    "Patee Library": [
+        {"name": "Lot1", "type": 1, "price": 2.00, "location": { "lat": 40.793670, "lon":-77.869614 }, "spaces": 40},
+        {"name": "Lot2", "type": 1, "price": 1.50, "location": { "lat": 40.792671, "lon": -77.871320}, "spaces": 20},
+        {"name": "Lot3", "type": 1, "price": 1.75, "location": { "lat": 40.790739, "lon": -77.870781}, "spaces": 25},
+        {"name": "Lot4", "type": 1, "price": 5.00, "location": { "lat": 40.797035, "lon": -77.866797}, "spaces": 17},
+        {"name": "Lot5", "type": 2, "price": 1.25, "location": { "lat": 40.792014, "lon": -77.868536}, "spaces": 15}
+    ]
+    
+    
+}
