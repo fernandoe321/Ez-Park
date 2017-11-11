@@ -1,6 +1,10 @@
 # EZPark
 
-Description goes here
+Our project utilizes student course times, days and locations. When you get in your car, the car will instantly tell you which class is your next, and where to go. The navigation will direct you to a parking lot that is best for the user. This is based on location, parking lot type, amount of spots open, and price. When you reach this spot, you have the option of parking here. You will be prompted with a dialogue to pay for the parking directly from your car. This will automatically deduct payment from your account and add your license plate number to the database of cars legally parked in this specific lot. When the car shuts off, you will be assisted further, by a text message from our service. This text will contain the link to google walking directions to their building and classroom.
+
+The two problems we solve here are students not knowing where to go for class and the best way to get there, and the other problem is paying a large amount of money out of pocket at the beginning of the semester for parking. This system will give users an easy and simple way to find and navigate to classes. The beauty of this feature is that as more cars become smart and connected to internet, the parking lot data will become even more reliable thus allowing users to essentially make a reservation for a spot in a certain lot. Also by allowing students to pay as they go for parking, this simplifies the process for the student and administration. Students may now only pay for the amount of parking they actually use if they wish to opt into this parking type instead of subscription based. No more taking loans out just to pay for parking all year. Pay as you go!
+
+This project scales easily and has so many benefits. Google calendar could easily be enabled to load appointments into this system and navigate to parking lots say in a busy downtown like Pittsburgh. A whole city could use this payment type and not require any additional hardware to make parking lots smart, especially as the percentage of smart cars on the road approaches 100%. A simple interface can also be implemented for users to upload parking lots and buildings not existing in the system. This allows for massive crowd source scaling! The possibilities with smart cars are endless.
 
 ## Getting Started
 
